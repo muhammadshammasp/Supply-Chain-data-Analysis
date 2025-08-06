@@ -3,7 +3,6 @@
 ## 🔧 Tools Used:
 - Excel
 - MySQL
-- Power BI
 - Tableau
 
 ## 📊 Project Overview:
@@ -12,7 +11,7 @@ Analyzed supply chain performance using production, customer, and delivery data.
 ## ✅ Steps Followed:
 1. Data Cleaning using WPS Office
 2. SQL Integration and schema design
-3. Dashboards in Excel, Power BI, and Tableau
+3. Dashboards in Excel and Tableau
 4. Key KPIs: On-time Delivery, Wastage, Rejected Qty
 
 ## 📌 Key Insights:
@@ -24,5 +23,4 @@ Analyzed supply chain performance using production, customer, and delivery data.
 - `Manufacturing Data.xlsx` – Raw Data
 - `metrics list.xlsx` – KPI formulas
 - `SQL_Schema.sql` – MySQL table structure
-- `Screenshots/` – Dashboards
 - `Final_Presentation.pptx`
